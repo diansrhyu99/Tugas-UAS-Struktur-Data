@@ -1,0 +1,4 @@
+id_jadwal,matkul,dosen,hari,jam,ruangan
+J001,Struktur Data,Dr Ahmad,Senin,08:00-10:00,Lab 1
+J002,Basis Data,Dr Budi,Selasa,10:00-12:00,Ruang A2
+J003,Pemrograman Python,Dr Sinta,Rabu,13:00-15:00,Lab 2
