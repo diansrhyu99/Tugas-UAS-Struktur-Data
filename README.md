@@ -22,28 +22,13 @@ Simpan gambar flowchart yang telah dibuat dengan nama:
 flowchart.png
 ```
 
-Kemudian letakkan pada folder:
 
-```text id="i57h5h"
-penjadwalan_kuliah/
-│
-├── assets/
-│   └── flowchart.png
-│
-├── modules/
-├── main.py
-├── jadwal.csv
-├── riwayat_jadwal.csv
-└── README.md
-```
+Berikut adalah flowchart alur kerja aplikasi sistem penjadwalan kuliah
 
-Tambahkan kode berikut pada README untuk menampilkan gambar:
-
-```html id="jz4jlwm"
 <p align="center">
   <img src="assets/flowchart.png" alt="Flowchart Sistem Penjadwalan Kuliah" width="900">
 </p>
-```
+
 
 ## Tujuan Proyek
 
